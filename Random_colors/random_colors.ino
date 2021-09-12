@@ -78,6 +78,7 @@ void controlLeds (int note)
         
         leds[note].red = redVal;
         leds[note].green = greenVal;
+        leds[note].blue = blueVal;
           
     } 
     else 
